@@ -8,7 +8,7 @@ different properties that help with combat, survivng or exploring of the world.
 
 
 ## Baubles
-This chapter is about baubles, that this module adds. 
+This chapter is about baubles that this module adds. 
 
 
 There are three kind of baubles in game:<br>
@@ -25,40 +25,40 @@ Let's see each of them
 <summary>Obtainable</summary>
 Bezoar<br>
 img was here<br>
-description was here<br><br>
+Grants immunity to poison.<br><br>
 
-Forbidden fruit<br>
+Forbidden Fruit<br>
 img was here<br>
-description was here<br><br>
+Grants immunity to hunger status effects and nausea.<br><br>
 
-Ring of overclocking<br>
+Ring of Overclocking<br>
 img was here<br>
-description was here<br><br>
+Grants immunity to slowness and +7% move speed.<br><br>
 
-Shulker heart<br>
+Shulker Heart<br>
 img was here<br>
-description was here<br><br>
+Grants immunity to levitation.<br><br>
 
 Vitamins<br>
 img was here<br>
-description was here<br>
+Grants immunity to weakness and mining fatigue.<br>
 
 </details>
 
 <details>
 <summary>Craftable</summary>
 
-Ankh amulet<br>
+Ankh Charm<br>
 img was here<br>
-description was here<br><br>
+Grants immunity to most status effects.<br><br>
 
-Ankh shield<br>
+Ankh Shield<br>
 img was here<br>
-description was here<br><br>
+Grants partial fire resistance and immunity to knockback and most negative status effects when held or equipped in bauble slot.<br><br>
 
 Sunglasses<br>
 img was here<br>
-description was here<br><br>
+Grants immunity to blindness.<br><br>
 
 </details>
 
@@ -67,15 +67,15 @@ description was here<br><br>
 
 Obsidian skull<br>
 img was here<br>
-description was here<br><br>
+Gratns immunity to burning and 50% resistance to fire damage (does not protect against lava).<br><br>
 
 Balloon<br>
 img was here<br>
-description was here<br><br>
+Increases jump height and negates some fall damage.<br><br>
 
 Cobalt shield<br>
 img was here<br>
-description was here<br><br>
+Grants immunity to knockback.<br><br>
 
 </details>
 
